@@ -22,10 +22,9 @@ Limited time and resources.
 Fixed project deadline.
 User data must remain secure.
 Team Members
-Member 1: [Your Name] — Project Coordinator
-Member 2: [Name] — Requirements
-Member 3: [Name] — Diagrams
-Member 4: [Name] — UI Prototype
+Member 1: [MOHSIN SHAH] — Project Manager
+Member 2: [Name] — member
+Member 3: [Name] — member
 Project Deliverables
 Requirements documentation
 Gantt chart
